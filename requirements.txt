@@ -1,0 +1,3 @@
+cryptography
+firebase-admin
+tkinterdnd2
